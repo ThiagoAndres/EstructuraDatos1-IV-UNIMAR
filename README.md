@@ -1,7 +1,6 @@
 # EstructuraDatos1
 
-## Integrante
+## Docente:
+Andrés Castillo
 
-ANDRES CASTILLO Código: 100002200202
-
-## 
+##Repositorio de ejercicios en clase y extraclase. 
