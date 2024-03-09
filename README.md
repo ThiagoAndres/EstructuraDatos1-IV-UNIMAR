@@ -2,7 +2,7 @@
 
 ##  Repositorio de ejercicios en clase y extraclase. 
 
-Docente: Andrés Castillo
+### Docente: Andrés Castillo
 Ingeniería de Sistemas
 
 
